@@ -34,8 +34,8 @@ Para essa mágica acontecer teremos que validar os IPs usando Expressões regula
 * Utilizamos fatiamento e list compreenshions
 ![Capturar](https://user-images.githubusercontent.com/79011974/112923023-e0e4d080-90e3-11eb-997c-c98f194e7431.PNG)
 ---
-## Exemplo de Runing ##
-![rodando](https://user-images.githubusercontent.com/79011974/112923424-ab8cb280-90e4-11eb-9035-d6d
+## Exemplo de Runing ##!
+[rodando](https://user-images.githubusercontent.com/79011974/112923775-4a191380-90e5-11eb-8c85-f946c80d7cc8.PNG)
 ![res](https://user-images.githubusercontent.com/79011974/112923420-a891c200-90e4-11eb-9bbe-28319360ce91.PNG)4456256ce.PNG)
 ---
 Ja em app.py eu imprimo as informações que eu preciso, no meun caso para exemplificar eu mostrei todas. 
