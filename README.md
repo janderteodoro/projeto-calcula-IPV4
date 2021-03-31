@@ -7,7 +7,7 @@ O objetivo deste pequeno projeto em Pythonm alémd e colocar os conhecimentos de
 
 Isso passando apenas o IP, máscara da redee e/ou prefixo. 
 
-# Para essa mágica acontecer teremos que validar os IPs usando Expressões regulares e muita conversão de binário para decimal dentro do nosso programa. Aqui no README trarei um *resumão* do que vai rolar e seu funcionamento. #
+### Para essa mágica acontecer teremos que validar os IPs usando Expressões regulares e muita conversão de binário para decimal dentro do nosso programa. Aqui no README trarei um *resumão* do que vai rolar e seu funcionamento. ###
 ---
 ### Você vai precisar de.. ###
 * Conhecimentos da Linguagem Python 
