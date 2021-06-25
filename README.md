@@ -1,4 +1,4 @@
-# projeto-calcula-IPV4 # (Curso de Python do Básico ao Avançado)
+# projeto-calcula-IPV4 (Curso de Python do Básico ao Avançado)
 ### Funcionamento e Objetivo ###
 O objetivo deste pequeno projeto em Pythonm alémd e colocar os conhecimentos de POO em prática... É fazer com que nosso programa retorne configurações importantes como:
 1. Números de hosts
